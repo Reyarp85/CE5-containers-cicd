@@ -1,0 +1,5 @@
+ecs_cluster_name = "zhiyong-ecs-cluster-prod"
+ecs_service_name = "zhiyong-ecs-service-prod"
+ecs_task_defn_family = "zhiyong-ecs-task-def-prod"
+ecs_container_name = "zhiyong-container-prod"
+ecs_port_name = "zhiyong-3000-tcp-prod"

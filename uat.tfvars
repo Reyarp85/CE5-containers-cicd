@@ -1,0 +1,5 @@
+ecs_cluster_name = "zhiyong-ecs-cluster-uat"
+ecs_service_name = "zhiyong-ecs-service-uat"
+ecs_task_defn_family = "zhiyong-ecs-task-def-uat"
+ecs_container_name = "zhiyong-container-uat"
+ecs_port_name = "zhiyong-3000-tcp-uat"
